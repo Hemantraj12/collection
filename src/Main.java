@@ -13,6 +13,9 @@ public class Main {
 
 
                 Iterator itr=list.iterator();
+
+
+
                 while(itr.hasNext()){
                     System.out.println(itr.next());
                 }
