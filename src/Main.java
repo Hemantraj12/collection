@@ -11,6 +11,7 @@ public class Main {
                 list.add("Ravi");
                 list.add("Ajay");
 
+
                 Iterator itr=list.iterator();
                 while(itr.hasNext()){
                     System.out.println(itr.next());
