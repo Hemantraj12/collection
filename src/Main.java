@@ -9,7 +9,11 @@ public class Main {
                 list.add("Ravi");
                 list.add("Vijay");
                 list.add("Ravi");
+
+
                 list.add("Ajay");
+        System.out.println("Commit");
+
 
 
                 Iterator itr=list.iterator();
